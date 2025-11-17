@@ -20,3 +20,9 @@ To build a strong foundation in C programming through consistent practice and do
 
 ✨ *_This repository grows as I learn more — feel free to explore or suggest improvements! A complete collection of everything I’m learning in C — from basic programs to advanced concepts. This repo includes my notes, hands-on practice codes, small projects, and experiments as I explore and master the C programming language._
 *
+
+<!-- 
+git add .
+git commit -m "Added new program for character previous and next"
+git push origin main
+ -->
